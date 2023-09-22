@@ -1,0 +1,2 @@
+# Atividades Práticas DIO 👨🏻‍💻
+Definir uma constante com o valor inicial "Steve", definir uma variável de tipos String opcionais e com valor inicial "Jobs" , escrever um print fazendo interpolação com a constante e com a variável, definindo um valor default para a variável opcional como "Wozniak" , fazer uma opcional binding na variável e dentro da condição fazer outro print com interpolação entre a constante e variável que foi desembrulhada.
